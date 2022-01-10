@@ -86,6 +86,7 @@ const Form = () => {
           Create New Article
         </Button>
         <Button
+          className={classes.resetButton}
           variant="contained"
           color="secondary"
           size="small"
